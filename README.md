@@ -41,6 +41,4 @@ A mobile application designed to bridge the financial literacy gap for rural and
 - **Icons**: Expo Vector Icons
 - **Styling**: React Native StyleSheet
 
-## Installation
 
-1. Clone the repository
