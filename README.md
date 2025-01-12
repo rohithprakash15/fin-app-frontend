@@ -1,6 +1,5 @@
-# Financial Literacy App
-
-A mobile application designed to bridge the financial literacy gap for rural and semi-literate populations in India. The app provides easy access to financial education, government schemes, and community support in both Hindi and English.
+# FinHelp
+A mobile application designed to bridge the financial literacy gap for rural and semi-literate populations in India. The app provides easy access to financial education, government schemes, and community support in both regional language and English.
 
 ## Features
 
